@@ -16,7 +16,10 @@ This project uses a few libaries to work properly:
 
    [pyautogui]: <https://pyautogui.readthedocs.io/en/latest/>
    [time]: <https://docs.python.org/3/library/time.html/>
+   [getcoords.py]: <https://github.com/y9su/anti-afk/blob/main/getcoords.py>
    
+
+get and adjust your coordinates using [getcoords.py]
 
 **Written in Python by y9su**
 
